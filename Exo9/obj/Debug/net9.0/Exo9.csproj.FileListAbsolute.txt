@@ -1,0 +1,15 @@
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\Exo9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\Exo9.AssemblyInfoInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\Exo9.AssemblyInfo.cs
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\Exo9.csproj.CoreCompileInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\Exo9.sourcelink.json
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\bin\Debug\net9.0\Exo9.exe
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\bin\Debug\net9.0\Exo9.deps.json
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\bin\Debug\net9.0\Exo9.runtimeconfig.json
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\bin\Debug\net9.0\Exo9.dll
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\bin\Debug\net9.0\Exo9.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\Exo9.dll
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\refint\Exo9.dll
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\Exo9.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\Exo9.genruntimeconfig.cache
+C:\Users\lcjsl\Documents\mes codes\CS\exo9\obj\Debug\net9.0\ref\Exo9.dll

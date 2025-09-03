@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\lcjsl\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\lcjsl\\Documents\\mes codes\\CS\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lcjsl\\AppData\\Roaming\\NuGet\\NuGet.Config"
