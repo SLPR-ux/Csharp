@@ -1,6 +1,6 @@
 ﻿//Exercice 3
-int a = 10;
-int b = 5;
+double a = 10;
+double b = 5;
 
 Console.WriteLine("Somme: " + (a + b));
 Console.WriteLine("Différence: " + (a - b));
