@@ -1,0 +1,15 @@
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\bin\Debug\net9.0\Exo6.exe
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\bin\Debug\net9.0\Exo6.deps.json
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\bin\Debug\net9.0\Exo6.runtimeconfig.json
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\bin\Debug\net9.0\Exo6.dll
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\bin\Debug\net9.0\Exo6.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\Exo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\Exo6.AssemblyInfoInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\Exo6.AssemblyInfo.cs
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\Exo6.csproj.CoreCompileInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\Exo6.sourcelink.json
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\Exo6.dll
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\refint\Exo6.dll
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\Exo6.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\Exo6.genruntimeconfig.cache
+C:\Users\lcjsl\Documents\mes codes\CS\ExoBoucles\exo6\obj\Debug\net9.0\ref\Exo6.dll
