@@ -2,9 +2,13 @@
 
 class Compte
 {
-    public decimal Solde { get; set; }
-
-    public static void Main(string[] args)
+    public string Solde
     {
+    get 
+        { return Solde; }
+    set
+        { Solde = value; }
     }
+
+
 }
