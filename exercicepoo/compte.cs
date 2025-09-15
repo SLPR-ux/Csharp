@@ -7,7 +7,6 @@ class Compte
     get 
         { return Solde; }
     set
-        { Solde = value; }
     }
 
 
