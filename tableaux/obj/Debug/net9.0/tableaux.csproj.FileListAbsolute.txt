@@ -1,0 +1,15 @@
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\bin\Debug\net9.0\tableaux.exe
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\bin\Debug\net9.0\tableaux.deps.json
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\bin\Debug\net9.0\tableaux.runtimeconfig.json
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\bin\Debug\net9.0\tableaux.dll
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\bin\Debug\net9.0\tableaux.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\tableaux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\tableaux.AssemblyInfoInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\tableaux.AssemblyInfo.cs
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\tableaux.csproj.CoreCompileInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\tableaux.sourcelink.json
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\tableaux.dll
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\refint\tableaux.dll
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\tableaux.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\tableaux.genruntimeconfig.cache
+C:\Users\lcjsl\Documents\mes codes\CS\tableaux\obj\Debug\net9.0\ref\tableaux.dll
