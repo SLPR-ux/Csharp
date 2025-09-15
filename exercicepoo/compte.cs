@@ -1,12 +1,11 @@
-
-
 class Compte
 {
-    public string Solde
+    private decimal solde;
+
+    public decimal Solde
     {
-    get 
-        { return Solde; }
-    set
+        get { return solde; }
+        set { solde = value; }
     }
 
 

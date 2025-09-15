@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicepoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de3699691ddd5eff5cca0d0eff1e9d2d81974113")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+510a13f675c853176006bc9a5958d486c2600e2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicepoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicepoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
