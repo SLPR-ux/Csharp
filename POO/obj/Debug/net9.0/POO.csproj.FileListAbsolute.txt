@@ -1,0 +1,15 @@
+C:\Users\lcjsl\Documents\mes codes\CS\POO\bin\Debug\net9.0\POO.exe
+C:\Users\lcjsl\Documents\mes codes\CS\POO\bin\Debug\net9.0\POO.deps.json
+C:\Users\lcjsl\Documents\mes codes\CS\POO\bin\Debug\net9.0\POO.runtimeconfig.json
+C:\Users\lcjsl\Documents\mes codes\CS\POO\bin\Debug\net9.0\POO.dll
+C:\Users\lcjsl\Documents\mes codes\CS\POO\bin\Debug\net9.0\POO.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\POO.AssemblyInfoInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\POO.AssemblyInfo.cs
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\POO.sourcelink.json
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\POO.dll
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\refint\POO.dll
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\POO.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\POO.genruntimeconfig.cache
+C:\Users\lcjsl\Documents\mes codes\CS\POO\obj\Debug\net9.0\ref\POO.dll
