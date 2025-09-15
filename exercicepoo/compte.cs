@@ -1,4 +1,4 @@
-class Compte
+public class Compte
 {
     private decimal solde;
 
@@ -7,6 +7,9 @@ class Compte
         get { return solde; }
         set { solde = value; }
     }
+    public void AfficherDetails()
+    {
+        Console.WriteLine($"Solde du compte: {solde} EUR");
+    }
 
-
-}
+} 
