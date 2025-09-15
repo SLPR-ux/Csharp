@@ -1,0 +1,15 @@
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\bin\Debug\net9.0\exercicepoo.exe
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\bin\Debug\net9.0\exercicepoo.deps.json
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\bin\Debug\net9.0\exercicepoo.runtimeconfig.json
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\bin\Debug\net9.0\exercicepoo.dll
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\bin\Debug\net9.0\exercicepoo.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\exercicepoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\exercicepoo.AssemblyInfoInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\exercicepoo.AssemblyInfo.cs
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\exercicepoo.csproj.CoreCompileInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\exercicepoo.sourcelink.json
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\exercicepoo.dll
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\refint\exercicepoo.dll
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\exercicepoo.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\exercicepoo.genruntimeconfig.cache
+C:\Users\lcjsl\Documents\mes codes\CS\exercicepoo\obj\Debug\net9.0\ref\exercicepoo.dll
