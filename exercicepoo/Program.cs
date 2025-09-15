@@ -4,8 +4,7 @@
     {
         Compte compte = new Compte();
         compte.Solde = 1500.75m;
-        compte.AfficherDetails();
-        
+
         Titulaire titulaire = new Titulaire();
         titulaire.Id = 1;
         titulaire.Nom = "Dupont";
@@ -15,6 +14,11 @@
         titulaire.Ville = "Paris";
         titulaire.Telephone = "0123456789";
         titulaire.Email = "jean.dupont@example.com";
-        titulaire.AfficherDetails();
+
+        compte.Titulaire = titulaire;
+        compte.AfficherDetails();
+        
+        compte.crediter(500);
+        compte.debiter(200);
     }
 }

@@ -7,71 +7,41 @@ public class Compte
         get { return solde; }
         set { solde = value; }
     }
+
+    public Titulaire Titulaire { get; set; }
     public void AfficherDetails()
     {
         Console.WriteLine($"Solde du compte: {solde} EUR");
+        if (Titulaire != null)
+        {
+            Console.WriteLine("Détails du titulaire:");
+            Titulaire.AfficherDetails();
+        }
     }
-}
-public class Titulaire
-{
-    private int id;
-    private string nom;
-    private string prenom;
-    private string adresse;
-    private string codepostal;
-    private string ville;
-    private string telephone;
-    private string email;
-
-    public int Id
+    public void crediter(decimal montant)
     {
-        get { return id; }
-        set { id = value; }
+        if (montant > 0)
+        {
+            solde += montant;
+            Console.WriteLine($"Crédité: {montant} EUR");
+            Console.WriteLine($"Nouveau solde: {solde} EUR");
+        }
+        else
+        {
+            Console.WriteLine("Montant de crédit invalide.");
+        }
     }
-    public string Nom
+    public void debiter(decimal montant)
     {
-        get { return nom; }
-        set { nom = value; }
-    }
-    public string Prenom
-    {
-        get { return prenom; }
-        set { prenom = value; }
-    }
-    public string Adresse
-    {
-        get { return adresse; }
-        set { adresse = value; }
-    }
-    public string CodePostal
-    {
-        get { return codepostal; }
-        set { codepostal = value; }
-    }
-    public string Ville
-    {
-        get { return ville; }
-        set { ville = value; }
-    }
-    public string Telephone
-    {
-        get { return telephone; }
-        set { telephone = value; }
-    }
-    public string Email
-    {
-        get { return email; }
-        set { email = value; }
-    }
-    public void AfficherDetails()
-    {
-        Console.WriteLine($"ID: {id}");
-        Console.WriteLine($"Nom: {nom}");
-        Console.WriteLine($"Prénom: {prenom}");
-        Console.WriteLine($"Adresse: {adresse}");
-        Console.WriteLine($"Code Postal: {codepostal}");
-        Console.WriteLine($"Ville: {ville}");
-        Console.WriteLine($"Téléphone: {telephone}");
-        Console.WriteLine($"Email: {email}");
+        if (montant > 0 && montant <= solde)
+        {
+            solde -= montant;
+            Console.WriteLine($"Débité: {montant} EUR");
+            Console.WriteLine($"Nouveau solde: {solde} EUR");
+        }
+        else
+        {
+            Console.WriteLine("Montant de débit invalide ou solde insuffisant.");
+        }
     }
 }
