@@ -1,7 +1,10 @@
-﻿public class Heritage
+﻿namespace heritage
 {
-    public static void Main(string[] args)
+    public class Heritage
     {
-        
+        public static void Main(string[] args)
+        {
+
+        }
     }
 }
