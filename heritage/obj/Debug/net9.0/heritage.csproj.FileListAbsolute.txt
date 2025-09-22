@@ -1,0 +1,15 @@
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\bin\Debug\net9.0\heritage.exe
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\bin\Debug\net9.0\heritage.deps.json
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\bin\Debug\net9.0\heritage.runtimeconfig.json
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\bin\Debug\net9.0\heritage.dll
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\bin\Debug\net9.0\heritage.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\heritage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\heritage.AssemblyInfoInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\heritage.AssemblyInfo.cs
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\heritage.csproj.CoreCompileInputs.cache
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\heritage.sourcelink.json
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\heritage.dll
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\refint\heritage.dll
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\heritage.pdb
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\heritage.genruntimeconfig.cache
+C:\Users\lcjsl\Documents\mes codes\CS\heritage\obj\Debug\net9.0\ref\heritage.dll
